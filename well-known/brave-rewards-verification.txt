@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: dogdekho.in
+Token: 87dc5578e3205445e32643f5437729fcfee18dd321c5a33f752c2751ce300d4e
